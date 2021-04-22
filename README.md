@@ -1,1 +1,3 @@
 # AWSBillingReport
+
+AWSの利用コストを把握するため、AWSの請求レポートを毎日Slackに通知するLambda関数
