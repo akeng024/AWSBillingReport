@@ -6,8 +6,8 @@ AWSの利用コストを把握するため、AWSの請求レポートを毎日Sl
 
 #### コストが0円だった場合
 
-![slack-good](image\slack-good.PNG)
+![slack-good](image/slack-good.PNG)
 
 #### コストが1円でもかかった場合
 
-![slack-danger](image\slack-danger.PNG)
+![slack-danger](image/slack-danger.PNG)
