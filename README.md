@@ -1,8 +1,13 @@
 # AWSBillingReport
 
-AWS‚Ì—˜—pƒRƒXƒg‚ð”cˆ¬‚·‚é‚½‚ßAAWS‚Ì¿‹ƒŒƒ|[ƒg‚ð–ˆ“úSlack‚É’Ê’m‚·‚éLambdaŠÖ”
+AWSã®åˆ©ç”¨ã‚³ã‚¹ãƒˆã‚’æŠŠæ¡ã™ã‚‹ãŸã‚ã€AWSã®è«‹æ±‚ãƒ¬ãƒãƒ¼ãƒˆã‚’æ¯Žæ—¥Slackã«é€šçŸ¥ã™ã‚‹Lambdaé–¢æ•°
 
-2“ú‘O‚ÉŽg—p‚µ‚½ƒT[ƒrƒX‚ÆƒRƒXƒg‚ª–ˆ’©10:00‚É’Ê’m‚³‚ê‚éB
-ƒRƒXƒg‚ª‚©‚©‚ç‚È‚©‚Á‚½i0‰~‚¾‚Á‚½jê‡
+2æ—¥å‰ã«ä½¿ç”¨ã—ãŸã‚µãƒ¼ãƒ“ã‚¹ã¨ã‚³ã‚¹ãƒˆãŒé€šçŸ¥ã•ã‚Œã‚‹ã€‚  
 
-ƒRƒXƒg‚ª1‰~‚Å‚à‚©‚©‚Á‚½ê‡
+#### ã‚³ã‚¹ãƒˆãŒ0å††ã ã£ãŸå ´åˆ
+
+![slack-good](image\slack-good.PNG)
+
+#### ã‚³ã‚¹ãƒˆãŒ1å††ã§ã‚‚ã‹ã‹ã£ãŸå ´åˆ
+
+![slack-danger](image\slack-danger.PNG)
